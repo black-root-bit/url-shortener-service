@@ -1,4 +1,4 @@
----
+
 
 # 🔗 url-shortener-service
 
@@ -22,6 +22,4 @@ GET   /api/v1/urls/my               # User's URLs
 
 **Performance:** Redis caches hot URLs → sub-millisecond redirect latency
 
-**GitHub Topics:** `java` `spring-boot` `url-shortener` `redis` `postgresql` `analytics` `docker` `rest-api`
-
----
+**GitHub Topics:** `java` `spring-boot` `url-shortener` `redis` `postgresql` `analytics` `docker` 
